@@ -1,5 +1,5 @@
 def calcular_total(dinero, interes, anios):
-    x = dinero * ((1 + intres/100) **anios)
+    x = dinero * ((1 + intres/100) ** anios)
     return round(x, 2)
 
 
