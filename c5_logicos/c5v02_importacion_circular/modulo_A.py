@@ -5,4 +5,4 @@ def ejecutar_B():
 
 
 def funcion_A():
-    print("Función en móodulo A")
+    print("Función en módulo A")
