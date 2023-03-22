@@ -2,7 +2,7 @@ import random
 
 
 def escribir_mensaje():
-    "Retorna un mensaje de cumpleaños con el nombre y la edad de la persona"
+    "Retorna un mensaje aleatorio"
 
     frases = [
         "Yo solo se que ya tu sabes",
