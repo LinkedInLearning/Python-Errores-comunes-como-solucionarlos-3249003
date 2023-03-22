@@ -7,7 +7,7 @@ def escribir_mensaje():
     frases = [
         "Yo solo se que ya tu sabes",
         "La vida es eso que pasa cuando pasa la vida",
-        "Ante la duda, comer hamburguesa"
+        "Ante la duda, comer hamburguesa",
     ]
 
     frase_aleatoria = random.choice(frases)
