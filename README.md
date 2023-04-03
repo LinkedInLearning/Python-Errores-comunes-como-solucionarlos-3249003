@@ -7,6 +7,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Python: Errores comunes 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+
 El primer error es siempre no querer solucionar el error. Este curso trata sobre la detección y la solución de los errores más comunes en Python, culpables de la mayoría de los fallos en tus proyectos. Aprende a diferenciar cuáles son los tipos de errores que comentemos como desarrolladores Python, y cuál es la mejor manera para solucionar cada uno de ellos, aplicando buenas prácticas a lo largo del desarrollo.
 
 ## Instrucciones
