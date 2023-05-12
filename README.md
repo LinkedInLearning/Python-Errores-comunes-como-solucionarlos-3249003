@@ -11,13 +11,11 @@ DESCRIPCIÓN DEL CURSO
 El primer error es siempre no querer solucionar el error. Este curso trata sobre la detección y la solución de los errores más comunes en Python, culpables de la mayoría de los fallos en tus proyectos. Aprende a diferenciar cuáles son los tipos de errores que comentemos como desarrolladores Python, y cuál es la mejor manera para solucionar cada uno de ellos, aplicando buenas prácticas a lo largo del desarrollo.
 
 ## Instrucciones
-
 Este repositorio tiene directorios para cada uno de los capítulos del curso.
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”. 
 
 ## Directorios
 Las directorios están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura del directorio es c# donde c corresponde a capítulo y # al número del capítulo, para los archivos la convención es `c#v#`, donde c corresponde a capítulo, v corresponde a video y # corresponde al número del capítulo y del video respectivamente. Por ejemplo, el directorio denominada c2_ corresponde al segundo capítulo y el archivo que se encuentra en este directorio iniciando con el nombre c2v03_ corresponde al tercer vídeo del segundo capítulo.
-
-
 
 ## Instalación
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
