@@ -1,12 +1,10 @@
 # Python: Errores comunes y cómo solucionarlos
 
-Este es el repositorio del curso de LinkedIn Learning `[Python: Errores comunes y cómo solucionarlos]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Python: Errores comunes y cómo solucionarlos`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![image](https://github.com/LinkedInLearning/Python-Errores-comunes-como-solucionarlos-3249003/assets/71371373/92840ece-f13e-4eb1-b442-152edb65dd7e)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
-
-DESCRIPCIÓN DEL CURSO
 
 El primer error es siempre no querer solucionar el error. Este curso trata sobre la detección y la solución de los errores más comunes en Python, culpables de la mayoría de los fallos en tus proyectos. Aprende a diferenciar cuáles son los tipos de errores que comentemos como desarrolladores Python, y cuál es la mejor manera para solucionar cada uno de ellos, aplicando buenas prácticas a lo largo del desarrollo.
 
@@ -33,6 +31,6 @@ Las directorios están estructuradas para corresponder a los vídeos del curso. 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/python-errores-comunes-y-como-solucionarlos/python-errores-comunes-y-como-solucionarlos
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
