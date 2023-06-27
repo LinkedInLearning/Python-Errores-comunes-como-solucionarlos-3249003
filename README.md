@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Python: Errores comunes y cómo solucionarlos`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://github.com/LinkedInLearning/Python-Errores-comunes-como-solucionarlos-3249003/assets/71371373/92840ece-f13e-4eb1-b442-152edb65dd7e)
+![image](https://media.licdn.com/dms/image/D560DAQH0HW4f9F3Wbw/learning-public-crop_675_1200/0/1686556816592?e=2147483647&v=beta&t=HCYHO_-QDzTyEbmVzc4TikPl15NXkzkdjfp4L1xMW40)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
